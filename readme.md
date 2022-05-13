@@ -10,4 +10,11 @@ You have found my repository for which I am using to document my work in the <b>
 	<li> Search Insert Position </li> 
          </ul>
 	</li>
-</ol 
+	<li>
+	<ul>
+	<li> Squares of Sorted Array  </li>
+	<li> Rotate Array </li>
+	</ul>
+	</li>
+</ol>
+

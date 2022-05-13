@@ -55,3 +55,5 @@ When we look at this binary search code in terms of operations done and time tak
 <h5> <i> O </i> (N) = log(N) </h5> 
 
 The space complexity of this problem is constant since the space taken up by the things it generates does not scale up.
+
+<h5> <i> O </i>(N) = 1

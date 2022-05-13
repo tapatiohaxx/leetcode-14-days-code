@@ -8,4 +8,4 @@
 		public int search(int[] nums, int target) {
 		} 
 	} 
-Seeing this, I managed to think of setting up myself first. I did this by initializing variables called ``first_key`` and  last_key  as well as ``pivot``  
+Seeing this, I managed to think of setting up myself first. I did this by initializing variables called ``first_key`` and ``last_key``  as well as ``pivot``  

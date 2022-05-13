@@ -1,9 +1,10 @@
 
 <h1> Search Insert Position</h1>
-<b> Intro:</b> In this problem, we are asked to simply make a procedure that finds a target value in an array. An additional codition to this problem is that the algorithm must have the condtraint of being `O(log(N))` time complexity.
+<b> Intro:</b> In this problem, we are asked to simply make a procedure that finds a target value in an array. An additional codition to this problem is that the algorithm must have the condtraint of being <code>O(log(N))</code> time complexity.
+
 
 <h3> My Approach</h3>
-The approach I took to this problem is very simple. Since they asked for a <code> O(log(n))</code> complexity. I decided to utilize the binaary search algorithm. I did make one modification from the original problem at the beginning of today: the default return statement. Instead of returning `-1`, I was forced to return the incremented right value of the array `(right + 1)` because the default condition returns a key of `(1 + right value)` when the value is not in the array.
+The approach I took to this problem is very simple. Since they asked for a <code> O(log(n))</code> complexity. I decided to utilize the binaary search algorithm. I did make one modification from the original problem at the beginning of today: the default return statement. Instead of returning <code> -1 </code>, I was forced to return the incremented right value of the array <code>(right + 1)</code> because the default condition returns a key of `(1 + right value)` when the value is not in the array.
 
 
 ```
